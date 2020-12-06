@@ -16,6 +16,8 @@ http://tv.romanatv42.com/hls/live.m3u8?PlaylistM3UCL
 http://api.new.livestream.com/accounts/27035275/events/8371710/live.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, Titino Cinevision Canal 19
-http://cinevision01.streamprolive.com/hls/live.m3u8?PlaylistM3UCL
+https://rctvhdstream.com:8081/cinevision19hd/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,Titino Telesistema Canal 11
+https://ss5.domint.net:3016/tv11_str/canal11/chunklist_w340033190.m3u8
 

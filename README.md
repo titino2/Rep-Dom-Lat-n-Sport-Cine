@@ -35,3 +35,6 @@ https://ss4.domint.net:3008/tra_str/canal45/chunklist_w73829212.m3u8
 
 #EXTINF:-1,Titino TeleAntillas Canal 2
 https://ss4.domint.net:3040/ta2_str/teleantillas/chunklist_w258824222.m3u8
+
+#EXTINF:-1,Titino Rai News 24
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_2400/chunklist.m3u8

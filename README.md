@@ -6,6 +6,9 @@ https://playback.akamaized.net/streams/28126860_8825282_lsirgdq7ap8zhdn89tv_1/me
 #EXTINF:-1, Titino - Canal 5 Telemicro (Opt. 2)
 https://playback.akamaized.net/streams/28126860_8825282_lsirgdq7ap8zhdn89tv_1/media/28126860_8825282_lsirgdq7ap8zhdn89tv_1@3628000p.m3u8?dw=14400&ts=1607266800&hdnts=exp=1607440825~acl=/streams/28126860_8825282_lsirgdq7ap8zhdn89tv_1/media*~hmac=97e161910253c64b77a46cd2d91a1c111dacf698d35a30c8a7bf66ed98372bf1
 
+#EXTINF:-1, Titino - Canal 15 Telemicro
+https://playback.akamaized.net/streams/27456795_8268514_lsil4bjzyvckdekc9rq_1/media/27456795_8268514_lsil4bjzyvckdekc9rq_1@628000p.m3u8?dw=14400&ts=1607295600&hdnts=exp=1607470670~acl=/streams/27456795_8268514_lsil4bjzyvckdekc9rq_1/media*~hmac=0adac43b1b0cbe96f5a354ff6e8af8402f378a357ad4a8a7f529eb85a8bb3686
+
 #EXTINF:-1, Titino - Canal 9 Univision 
 https://stream-01.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RYyOneTJcAY_XP5bwVnI2IjY)/dm/3/x7gy059/d/live-1.m3u8
 
@@ -38,4 +41,7 @@ https://ss4.domint.net:3040/ta2_str/teleantillas/chunklist_w258824222.m3u8
 
 #EXTINF:-1,Titino Rai News 24
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_2400/chunklist.m3u8
+
+#EXTINF:-1,Titino CDN Canal 37
+https://dcunilive14-lh.akamaihd.net/i/dclive_1@167228/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1607383964~acl=%2fi%2fdclive_1%40167228*~data=hdntl~hmac=1a655cadd737a7836aaba5347cdd8af199793415a4446e66ada4ed87d162fbdc
 

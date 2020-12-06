@@ -38,3 +38,9 @@ https://ss4.domint.net:3040/ta2_str/teleantillas/chunklist_w258824222.m3u8
 
 #EXTINF:-1,Titino Rai News 24
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_2400/chunklist.m3u8
+
+#EXTINF:-1,Titino Mediaset Canale 5
+http://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(c5)/stream04/streamPlaylist.m3u8
+
+#EXTINF:-1,Titino Mediaset Italia 1
+http://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/stream04/streamPlaylist.m3u8

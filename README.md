@@ -39,15 +39,3 @@ https://ss4.domint.net:3040/ta2_str/teleantillas/chunklist_w258824222.m3u8
 #EXTINF:-1,Titino Rai News 24
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_2400/chunklist.m3u8
 
-#EXTINF:-1,Titino Mediaset Canale 5
-http://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(c5)/stream04/streamPlaylist.m3u8
-http://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(c5)/stream04/streamPlaylist.m3u8
-
-#EXTINF:-1,Titino Mediaset Italia 1
-http://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/stream04/streamPlaylist.m3u8
-
-#EXTINF:-1,Titino Mediaset Rete 4
-http://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/stream04/streamPlaylist.m3u8
-
-#EXTINF:-1,Titino La7
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/subtitle/es/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=d6b6b5b2-9263-402c-b28a-c8b13ba1ac5f&deviceVersion=86.0.4240.198&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&deviceType=web&deviceMake=Chrome&sid=84a767e3-3819-11eb-a786-0242ac110002&advertisingId=&deviceLat=18.3648&deviceLon=-68.8250&deviceDNT=0&deviceModel=Chrome&userId=&appName=web

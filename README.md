@@ -1,33 +1,7 @@
 #EXTM3U
-#EXTINF:-1,RD - ANTENA LATINA
-http://tv.nousiptv.com:25462/Omy/1234/30079
-#EXTINF:-1,RD - CDN
-http://tv.nousiptv.com:25462/Omy/1234/30080
-#EXTINF:-1,RD - COLOR VISION
-http://tv.nousiptv.com:25462/Omy/1234/8242
-#EXTINF:-1,RD - DIGITAL 15
-http://tv.nousiptv.com:25462/Omy/1234/8243
-#EXTINF:-1,RD - ENTELEVISION
-http://tv.nousiptv.com:25462/Omy/1234/32527
-#EXTINF:-1,RD - TELEANTILLAS
-http://tv.nousiptv.com:25462/Omy/1234/8241
-#EXTINF:-1,RD - RNN
-http://tv.nousiptv.com:25462/Omy/1234/8239
-#EXTINF:-1,RD - TELECENTRO
-http://tv.nousiptv.com:25462/Omy/1234/8244
-#EXTINF:-1,RD - TELEMICRO
-http://tv.nousiptv.com:25462/Omy/1234/8245
-#EXTINF:-1,RD - TELEMICRO CANAL 5
-http://tv.nousiptv.com:25462/Omy/1234/5471
-#EXTINF:-1,RD - TELERADIO AMERICA
-http://tv.nousiptv.com:25462/Omy/1234/5472
-#EXTINF:-1,RD - TELESISTEMA
-http://tv.nousiptv.com:25462/Omy/1234/8240
-#EXTINF:-1,RD - TELEUNION
-http://tv.nousiptv.com:25462/Omy/1234/5468
-#EXTINF:-1,RD - TELEUNIVERSO
-http://tv.nousiptv.com:25462/Omy/1234/5473
 
+#EXTINF:-1, Titino - Canal 5 Telemicro
+https://playback.akamaized.net/streams/28126860_8825282_lsirgdq7ap8zhdn89tv_1/media/28126860_8825282_lsirgdq7ap8zhdn89tv_1@3628000p.m3u8?dw=14400&ts=1607266800&hdnts=exp=1607440258~acl=/streams/28126860_8825282_lsirgdq7ap8zhdn89tv_1/media*~hmac=22e07d697aba2db383e70ec9e91e35fa6739362b674a5d3364b512cfe54701ae
 
 #EXTINF:-1, Titino - Canal 9 Univision 
 https://stream-01.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RYyOneTJcAY_XP5bwVnI2IjY)/dm/3/x7gy059/d/live-1.m3u8

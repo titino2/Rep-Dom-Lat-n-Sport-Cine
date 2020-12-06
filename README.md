@@ -44,3 +44,6 @@ http://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel
 
 #EXTINF:-1,Titino Mediaset Italia 1
 http://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/stream04/streamPlaylist.m3u8
+
+#EXTINF:-1,Titino Mediaset
+http://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/stream04/streamPlaylist.m3u8

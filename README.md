@@ -15,5 +15,5 @@ http://caribeteve.ddns.net:1935/tvcotui/tvcotui/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, Titino Romana TV
 http://tv.romanatv42.com/hls/live.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,  Sport Vision
-https://5b59c7a47236a.streamlock.net/sportvision35tv/sportvision35tv/manifest.m3u8?PlaylistM3UCL
+#EXTINF:-1, Titino Telecanal 12
+https://cdn4.hostlagarto.com:8081/telecanal12/index.m3u8?PlaylistM3UCL

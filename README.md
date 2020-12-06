@@ -12,4 +12,10 @@ https://stream-01.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RYyOneTJcAY_XP5bwVn
 #EXTINF:-1, Titino Romana TV
 http://tv.romanatv42.com/hls/live.m3u8?PlaylistM3UCL
 
+#EXTINF:-1, Titino Canal 4 RD
+http://api.new.livestream.com/accounts/27035275/events/8371710/live.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Titino Cinevision Canal 19
+http://cinevision01.streamprolive.com/hls/live.m3u8?PlaylistM3UCL
+
 

@@ -21,3 +21,6 @@ https://rctvhdstream.com:8081/cinevision19hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Titino Telesistema Canal 11
 https://ss5.domint.net:3016/tv11_str/canal11/chunklist_w340033190.m3u8
 
+#EXTINF:-1,Titino Antena Latina Canal 7
+https://do-antena7-antena7-live.ned.media/antena7/smil:antena7.smil/chunklist_b746000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjA3MzU5Njc5LCJzZXNzaW9uIjoiMTc5LjUyLjIyMC40NyIsIndoaXRlbGlzdCI6WyIxNzkuNTIuMjIwLjQ3Il19LCJzaWduYXR1cmUiOiI0MDhhMWFkMzY5MmU2OGY2YWVjMTFlNDBhYWFlNmY3ODIwZDkxYzI5In0%3D
+

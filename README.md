@@ -24,3 +24,14 @@ https://ss5.domint.net:3016/tv11_str/canal11/chunklist_w340033190.m3u8
 #EXTINF:-1,Titino Antena Latina Canal 7
 https://do-antena7-antena7-live.ned.media/antena7/smil:antena7.smil/chunklist_b746000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjA3MzU5Njc5LCJzZXNzaW9uIjoiMTc5LjUyLjIyMC40NyIsIndoaXRlbGlzdCI6WyIxNzkuNTIuMjIwLjQ3Il19LCJzaWduYXR1cmUiOiI0MDhhMWFkMzY5MmU2OGY2YWVjMTFlNDBhYWFlNmY3ODIwZDkxYzI5In0%3D
 
+#EXTINF:-1,Titino Antena Latina Canal 21
+https://do-antena7-canal21-live.ned.media/antena7/smil:canal21.smil/chunklist_b746000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjA3MzYwMzI4LCJzZXNzaW9uIjoiMTc5LjUyLjIyMC40NyIsIndoaXRlbGlzdCI6WyIxNzkuNTIuMjIwLjQ3Il19LCJzaWduYXR1cmUiOiIwMmRhMWM3ZjAwMjcyM2MzYWZiOTNmNzViYTE3NjlmYTgzOGNjOWJhIn0%3D
+
+#EXTINF:-1,Titino Teleuniverso Canal 29
+https://cloudflare.streamgato.us:3437/live/teleuniversotvlive.m3u8
+
+#EXTINF:-1,Titino TeleRadioAmerica Canal 45
+https://ss4.domint.net:3008/tra_str/canal45/chunklist_w73829212.m3u8
+
+#EXTINF:-1,Titino TeleAntillas Canal 2
+https://ss4.domint.net:3040/ta2_str/teleantillas/chunklist_w258824222.m3u8

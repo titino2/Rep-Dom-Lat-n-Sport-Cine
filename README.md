@@ -49,5 +49,5 @@ http://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel
 #EXTINF:-1,Titino Mediaset Rete 4
 http://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/stream04/streamPlaylist.m3u8
 
-#EXTINF:-1,Titino ESPN
-https://e10.stephn.xyz/ingestnb4s/espn_sur/f.m3u8
+#EXTINF:-1,Titino La7
+https://d15umi5iaezxgx.cloudfront.net/OUT/DASH/Live_Audio_000697323.mp4

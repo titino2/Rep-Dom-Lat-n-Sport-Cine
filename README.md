@@ -45,3 +45,6 @@ https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_24
 #EXTINF:-1,Titino CDN Canal 37
 https://dcunilive14-lh.akamaihd.net/i/dclive_1@167228/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1607383964~acl=%2fi%2fdclive_1%40167228*~data=hdntl~hmac=1a655cadd737a7836aaba5347cdd8af199793415a4446e66ada4ed87d162fbdc
 
+#EXTINF:-1,Titino RNN Canal 27
+https://ss2.domint.net:3202/rnn_str/canal27/chunklist_w60479899.m3u8
+

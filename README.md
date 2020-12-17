@@ -7,6 +7,6 @@ https://cqsq9f37v8zfm9u.ezcdn421.net:8443/hls/81r0h5n4p93sdj.m3u8?s=Dq5wpm9xqDGx
 https://cqsq9f37v8zfm9u.ezcdn421.net:8443/hls/w7xtmx4gj4d4yo1.m3u8?s=mE1lHb4i3T6vV2NG-dxEiA&e=1608241969
 #EXTINF:0 tvg-country="UK" tvg-logo="" group-title="SERIE A UK",Footbal HD
 https://cqsq9f37v8zfm9u.ezcdn421.net:8443/hls/ikbwlgvhdswe7q.m3u8?s=-4UEWIdQHuf5KE4zLu1GvQ&e=1608250315
-#EXTINF:0 tvg-country="UK" tvg-logo="" group-title="SERIE A UK",Astro Sport HD
+#EXTINF:0 tvg-country="UK" tvg-logo="" group-title="SERIE A UK",Astro Sport 3 HD
 https://cqsq9f37v8zfm9u.ezcdn421.net:8443/hls/rkjz894p.m3u8?s=_DF2BRoGWV_qw2vMsMWbyA&e=1608250661
 
